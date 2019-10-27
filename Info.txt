@@ -1,0 +1,3 @@
+Ao tentar desenvolver o desafio proposto, utilizando o quadcopter, tive dificuldades no mesmo, em relação a movimentação e controle. Como somente havia “trabalhando” com veículos de bimotores de 4 ou 3 pneus e para não ficar sem enviar nada, desenvolvi algo utilizando o pionner, já que encontrei algum material que deu surpote em relação ao mesmo. 
+
+Como o desafio visa avaliar a capacidade de desenvolvimento de um sistema autônomo que objetiva reconhecer o ambiente por meio de sensores e, baseado nessas informações, criar uma navegação autônoma aceitável, acredito que tal habilidade pode ser analisada tanto com um projeto usando um quadcopter tanto quanto com um pionner.  
